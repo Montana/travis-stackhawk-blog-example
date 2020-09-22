@@ -17,7 +17,7 @@ For us here at Travis, security is a big deal. Most importantly you want to catc
 
 <!--more-->
 
-I saw StackHawk in action personally, and one of the first things I pondered was, this is a great alternative to say ```docker inspect --format='{{.Config.Image}}' $INSTANCE_ID```. I also thought what about doing in-house Docker commands for analysis in advance (at the image level). Both are great ideas but as I personally know sometimes can get a little messy. Here at Travis CI we like quick, simple and efficient. Let's talk about how we would set StackHawk up with Travis CI and see how simple it is. 
+I saw StackHawk in action personally, and one of the first things I pondered was, this is a great alternative to say ```docker inspect --format='{{.Config.Image}}' $INSTANCE_ID```. I also thought what about doing in-house Docker commands for analysis in advance (at the image level). Both are great ideas but as I personally know sometimes things can get a little messy. Here at Travis CI we like quick, simple and efficient. Let's talk about how we would set StackHawk up with Travis CI and see how simple it is. 
 
 ## Getting started
 
