@@ -13,6 +13,7 @@ tags:
 - news
 
 ---
-We've been hard at work collaborating on a new set of instructions to help you grow as a new developer! We understand that not everyone knows what cookbooks are and how to use them to improve your build. We wanted to help facilitate that journey for you and build our own instructional manuals! We know how much you've loved our other instructions videos and documentation so this felt like the perfect next step!
+
+
 
 <!--more-->
