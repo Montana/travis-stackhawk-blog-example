@@ -1,19 +1,18 @@
 ---
-title: Travis CI + StackHawk
-layout: post
-created_at: Tue Sep 22 10:00:00 EDT 2020
-Permalink: 09-22-2020-stackhawk.md
-current: blog
-layout: post
+title: "Travis CI + StackHawk"
+created_at: Tuesday 22 Sep 2020 15:00:00 EDT
 author: Montana Mendy
-excerpt_separator: <!--more-->
-categories:
-- news
+layout: post
+permalink: 2020-09-22-stackhawk.md
+category: news
+excerpt_separator: <!-- more --> 
 tags:
-- news
+  - news
+  - feature
+  - community
 ---
 
-For us here at Travis, security is a big deal. Most importantly you want to catch bugs before they hit production, but also in that same process - classify and indentify security vulnerabilities. 
+For us here at Travis, security is a big deal. Most importantly you want to catch bugs before they hit production, but also in that same process - classify and quickly indentify security vulnerabilities. 
 
 <!--more-->
 
